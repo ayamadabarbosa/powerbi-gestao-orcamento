@@ -49,8 +49,8 @@ O dashboard foi criado como parte dos meus estudos em Business Intelligence (BI)
 ```
 📁 powerbi-gestao-orcamento
 │
-├── Dashboard.pbix
-├── BaseDados.xlsx
+├── Dashboard-Gestao-Orcamentaria.pbix
+├── BaseDados-Gestao-Orcamentaria.xlsx
 ├── README.md
 └── imagens
     └── dashboard-principal.png
